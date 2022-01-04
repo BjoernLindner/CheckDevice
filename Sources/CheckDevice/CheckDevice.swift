@@ -111,6 +111,8 @@ open class CheckDevice {
         case "Watch5,2",  "Watch5,4":                     return .Watch5Gen44mm
         case "Watch6,1",  "Watch6,3":                     return .Watch6Gen40mm
         case "Watch6,2",  "Watch6,4":                     return .Watch6Gen44mm
+        case "Watch7,1",  "Watch7,3":                     return .Watch7Gen41mm
+        case "Watch7,2",  "Watch7,4":                     return .Watch7Gen45mm
         case "Watch5,9",  "Watch5,11":                    return .WatchSE40mm
         case "Watch5,10",  "Watch5,12":                   return .WatchSE44mm
 

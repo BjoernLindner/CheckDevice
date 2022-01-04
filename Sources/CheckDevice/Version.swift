@@ -98,6 +98,8 @@ public enum Version: String {
     case Watch5Gen44mm
     case Watch6Gen40mm
     case Watch6Gen44mm
+    case Watch7Gen41mm
+    case Watch7Gen45mm
     case WatchSE40mm
     case WatchSE44mm
     
